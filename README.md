@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashikant Kumar.
 - 👀 I’m interested in Density functional theory (DFT), Orbital Free DFT, machine learning and 2D materials.
-- 🌱 I’m currently learning deep learning.
+- 🌱 I’m currently workin on deep learning methods in large scale electronic structure calculations.
 - 💞️ I’m looking to collaborate on machine learning based computational methods in chemistry.
 - 📫 Email: shashikant@gatech.edu
 
